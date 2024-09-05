@@ -39,7 +39,7 @@ function ContactPage() {
 					<div className='flex items-center gap-3 mt-2'>
 						<Phone className='w-4 h-4' />
 						<p className='text-sm'> <a href="tel:+998911477825">+998 91 147 78 25</a> </p>
-					</div>
+					</div> 
 				</div>
 
 				<div>
