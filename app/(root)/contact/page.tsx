@@ -34,7 +34,7 @@ function ContactPage() {
 
 					<div className='mt-12 flex items-center gap-3'>
 						<Mail className='w-4 h-4' />
-						<p className='text-sm'> <a href="mailto:muhammadibrohimov0306@gmail.com">muhammadibrohimov0306@gmail.com</a> </p>
+						<p className='text-sm'> <a href="mailto:muhammadibrohimov0306@gmail.com">muhammadibrohimov0306@gmail.com</a> </p> 
 					</div>
 					<div className='flex items-center gap-3 mt-2'>
 						<Phone className='w-4 h-4' />
